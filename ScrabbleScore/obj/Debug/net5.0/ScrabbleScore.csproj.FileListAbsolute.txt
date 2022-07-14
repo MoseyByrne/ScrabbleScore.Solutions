@@ -1,0 +1,15 @@
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.csproj.AssemblyReference.cache
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.AssemblyInfoInputs.cache
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.AssemblyInfo.cs
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.csproj.CoreCompileInputs.cache
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.deps.json
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.runtimeconfig.json
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.runtimeconfig.dev.json
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.dll
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ref/ScrabbleScore.dll
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.pdb
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.dll
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ref/ScrabbleScore.dll
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.pdb
+/Users/mobyrne/Desktop/C#/ScrabbleScore.Solutions/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.genruntimeconfig.cache
